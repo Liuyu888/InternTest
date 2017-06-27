@@ -1,0 +1,457 @@
+Rotation Start,Primary,Backup
+2016-6-1 09:00:00,Sean Liu,Oleg Ignat
+2016-6-2 09:00:00,Sergey Rogozhkin,Sean Liu
+2016-6-3 09:00:00,Michal Primke,Sergey Rogozhkin
+2016-6-4 09:00:00,Saket Bharambe,Michal Primke
+2016-6-5 09:00:00,Brian Chamberlain,Saket Bharambe
+2016-6-6 09:00:00,Mine Tokus,Brian Chamberlain
+2016-6-7 09:00:00,Saru Kittusami,Mine Tokus
+2016-6-8 09:00:00,Oleg Ignat,Saru Kittusami
+2016-6-9 09:00:00,Adam Kromm,Oleg Ignat
+2016-6-10 09:00:00,Wayne Berry,Adam Kromm
+2016-6-11 09:00:00,Alex Chin,Wayne Berry
+2016-6-12 09:00:00,James Tao,Alex Chin
+2016-6-13 09:00:00,Pratyush Rawat,James Tao
+2016-6-14 09:00:00,James Tao,Pratyush Rawat
+2016-6-15 09:00:00,Sean Liu,James Tao
+2016-6-16 09:00:00,Saket Bharambe,Sean Liu
+2016-6-17 09:00:00,Sergey Rogozhkin,Saket Bharambe
+2016-6-18 09:00:00,Saru Kittusami,Sergey Rogozhkin
+2016-6-19 09:00:00,Oleg Ignat,Saru Kittusami
+2016-6-20 09:00:00,Michal Primke,Oleg Ignat
+2016-6-21 09:00:00,Adam Kromm,Michal Primke
+2016-6-22 09:00:00,Mine Tokus,Adam Kromm
+2016-6-23 09:00:00,Wayne Berry,Mine Tokus
+2016-6-24 09:00:00,Pratyush Rawat,Wayne Berry
+2016-6-25 09:00:00,Brian Chamberlain,Pratyush Rawat
+2016-6-26 09:00:00,Saru Kittusami,Brian Chamberlain
+2016-6-27 09:00:00,Saket Bharambe,Saru Kittusami
+2016-6-28 09:00:00,Oleg Ignat,Saket Bharambe
+2016-6-29 09:00:00,Michal Primke,Oleg Ignat
+2016-6-30 09:00:00,Sean Liu,Michal Primke
+2016-7-1 09:00:00,Adam Kromm,Sean Liu
+2016-7-2 09:00:00,Sergey Rogozhkin,Sean Liu
+2016-7-3 09:00:00,Sean Liu,Sergey Rogozhkin
+2016-7-4 09:00:00,Sergey Rogozhkin,Sean Liu
+2016-7-5 09:00:00,Garima Agrawal,Adam Kromm
+2016-7-6 09:00:00,Yogesh Kulkarni,Garima Agrawal
+2016-7-7 09:00:00,Saket Bharambe,Yogesh Kulkarni
+2016-7-8 09:00:00,Oleg Ignat,Saket Bharambe
+2016-7-9 09:00:00,Pratyush Rawat,Oleg Ignat
+2016-7-10 09:00:00,Michal Primke,Pratyush Rawat
+2016-7-11 09:00:00,Saru Kittusami,Michal Primke
+2016-7-12 09:00:00,Brian Chamberlain,Saru Kittusami
+2016-7-13 09:00:00,Alex Chin,Brian Chamberlain
+2016-7-14 09:00:00,Wayne Berry,Alex Chin
+2016-7-15 09:00:00,Alex Chin,Wayne Berry
+2016-7-16 09:00:00,Mine Tokus,Alex Chin
+2016-7-17 09:00:00,Oleg Ignat,Mine Tokus
+2016-7-18 09:00:00,Pratyush Rawat,Oleg Ignat
+2016-7-19 09:00:00,Saket Bharambe,Pratyush Rawat
+2016-7-20 09:00:00,Garima Agrawal,Saket Bharambe
+2016-7-21 09:00:00,Sergey Rogozhkin,Garima Agrawal
+2016-7-22 09:00:00,Yogesh Kulkarni,Sergey Rogozhkin
+2016-7-23 09:00:00,Adam Kromm,Yogesh Kulkarni
+2016-7-24 09:00:00,Saru Kittusami,Adam Kromm
+2016-7-25 09:00:00,Michal Primke,Saru Kittusami
+2016-7-26 09:00:00,Brian Chamberlain,Michal Primke
+2016-7-27 09:00:00,Sean Liu,Brian Chamberlain
+2016-7-28 09:00:00,Wayne Berry,Sean Liu
+2016-7-29 09:00:00,Oleg Ignat,Alex Chin
+2016-7-30 09:00:00,Saket Bharambe,Oleg Ignat
+2016-7-31 09:00:00,Pratyush Rawat,Saket Bharambe
+2016-8-1 09:00:00,Wayne Berry,Pratyush Rawat
+2016-8-2 09:00:00,Brian Chamberlain,Wayne Berry
+2016-8-3 09:00:00,Saru Kittusami,Brian Chamberlain
+2016-8-4 09:00:00,Michal Primke,Saru Kittusami
+2016-8-5 09:00:00,Adam Kromm,Michal Primke
+2016-8-6 09:00:00,Garima Agrawal,Adam Kromm
+2016-8-7 09:00:00,Yogesh Kulkarni,Garima Agrawal
+2016-8-8 09:00:00,Sergey Rogozhkin,Yogesh Kulkarni
+2016-8-9 09:00:00,Oleg Ignat,Sergey Rogozhkin
+2016-8-10 09:00:00,Pratyush Rawat,Oleg Ignat
+2016-8-11 09:00:00,Saket Bharambe,Pratyush Rawat
+2016-8-12 09:00:00,Wayne Berry,Saket Bharambe
+2016-8-13 09:00:00,Sean Liu,Wayne Berry
+2016-8-14 09:00:00,Michal Primke,Sean Liu
+2016-8-15 09:00:00,Alex Chin,Michal Primke
+2016-8-16 09:00:00,Wayne Berry,Alex Chin
+2016-8-17 09:00:00,Alex Chin,Wayne Berry
+2016-8-18 09:00:00,Pratyush Rawat,Alex Chin
+2016-8-19 09:00:00,Yogesh Kulkarni,Pratyush Rawat
+2016-8-20 09:00:00,Oleg Ignat,Yogesh Kulkarni
+2016-8-21 09:00:00,Brian Chamberlain,Oleg Ignat
+2016-8-22 09:00:00,Yogesh Kulkarni,Brian Chamberlain
+2016-8-23 09:00:00,Brian Chamberlain,Yogesh Kulkarni
+2016-8-24 09:00:00,Saru Kittusami,Brian Chamberlain
+2016-8-25 09:00:00,Adam Kromm,Saru Kittusami
+2016-8-26 09:00:00,Garima Agrawal,Adam Kromm
+2016-8-27 09:00:00,Sergey Rogozhkin,Garima Agrawal
+2016-8-28 09:00:00,Michal Primke,Sergey Rogozhkin
+2016-8-29 09:00:00,Oleg Ignat,Michal Primke
+2016-8-30 09:00:00,Pratyush Rawat,Oleg Ignat
+2016-8-31 09:00:00,Wayne Berry,Pratyush Rawat
+2016-9-1 09:00:00,Sean Liu,Wayne Berry
+2016-9-2 09:00:00,Saru Kittusami,Sean Liu
+2016-9-3 09:00:00,Alex Chin,Saru Kittusami
+2016-9-4 09:00:00,Michal Primke,Alex Chin
+2016-9-5 09:00:00,Alex Chin,Michal Primke
+2016-9-6 09:00:00,Mine Tokus,Alex Chin
+2016-9-7 09:00:00,Oleg Ignat,Mine Tokus
+2016-9-8 09:00:00,Adam Kromm,Oleg Ignat
+2016-9-9 09:00:00,Pratyush Rawat,Adam Kromm
+2016-9-10 09:00:00,Yogesh Kulkarni,Pratyush Rawat
+2016-9-11 09:00:00,Saru Kittusami,Yogesh Kulkarni
+2016-9-12 09:00:00,Brian Chamberlain,Saru Kittusami
+2016-9-13 09:00:00,Garima Agrawal,Brian Chamberlain
+2016-9-14 09:00:00,Sergey Rogozhkin,Garima Agrawal
+2016-9-15 09:00:00,Oleg Ignat,Sergey Rogozhkin
+2016-9-16 09:00:00,Pratyush Rawat,Oleg Ignat
+2016-9-17 09:00:00,Mine Tokus,Pratyush Rawat
+2016-9-18 09:00:00,Sean Liu,Mine Tokus
+2016-9-19 09:00:00,Michal Primke,Sean Liu
+2016-9-20 09:00:00,Adam Kromm,Michal Primke
+2016-9-21 09:00:00,Saru Kittusami,Adam Kromm
+2016-9-22 09:00:00,James Tao,Saru Kittusami
+2016-9-23 09:00:00,Mine Tokus,James Tao
+2016-9-24 09:00:00,James Tao,Mine Tokus
+2016-9-25 09:00:00,Oleg Ignat,James Tao
+2016-9-26 09:00:00,Yogesh Kulkarni,Oleg Ignat
+2016-9-27 09:00:00,Pratyush Rawat,Yogesh Kulkarni
+2016-9-28 09:00:00,Brian Chamberlain,Pratyush Rawat
+2016-9-29 09:00:00,Adam Kromm,Brian Chamberlain
+2016-9-30 09:00:00,Sean Liu,Adam Kromm
+2016-10-1 09:00:00,Garima Agrawal,Sean Liu
+2016-10-2 09:00:00,Wayne Berry,Garima Agrawal
+2016-10-3 09:00:00,Vaishali Narkhede,Wayne Berry
+2016-10-4 09:00:00,Sergey Rogozhkin,Vaishali Narkhede
+2016-10-5 09:00:00,Oleg Ignat,Sergey Rogozhkin
+2016-10-6 09:00:00,Sumesh Dutt Sharma,Oleg Ignat
+2016-10-7 09:00:00,Yogesh Kulkarni,Sumesh Dutt Sharma
+2016-10-8 09:00:00,Adam Kromm,Yogesh Kulkarni
+2016-10-9 09:00:00,Sean Liu,Adam Kromm
+2016-10-10 09:00:00,Arjun Shankar,Sean Liu
+2016-10-11 09:00:00,Pratyush Rawat,Arjun Shankar
+2016-10-12 09:00:00,Oleg Ignat,Pratyush Rawat
+2016-10-13 09:00:00,Brian Chamberlain,Oleg Ignat
+2016-10-14 09:00:00,Vaishali Narkhede,Brian Chamberlain
+2016-10-15 09:00:00,Sumesh Dutt Sharma,Vaishali Narkhede
+2016-10-16 09:00:00,Jiachuan Wang,Sumesh Dutt Sharma
+2016-10-17 09:00:00,Yogesh Kulkarni,Jiachuan Wang
+2016-10-18 09:00:00,Sean Liu,Yogesh Kulkarni
+2016-10-19 09:00:00,Garima Agrawal,Sean Liu
+2016-10-20 09:00:00,Oleg Ignat,Garima Agrawal
+2016-10-21 09:00:00,Arjun Shankar,Oleg Ignat
+2016-10-22 09:00:00,Sergey Rogozhkin,Arjun Shankar
+2016-10-23 09:00:00,Saket Bharambe,Sergey Rogozhkin
+2016-10-24 09:00:00,Michal Primke,Saket Bharambe
+2016-10-25 09:00:00,Vaishali Narkhede,Michal Primke
+2016-10-26 09:00:00,Jiachuan Wang,Vaishali Narkhede
+2016-10-27 09:00:00,Yogesh Kulkarni,Jiachuan Wang
+2016-10-28 09:00:00,Alex Chin,Yogesh Kulkarni
+2016-10-29 09:00:00,Oleg Ignat,Alex Chin
+2016-10-30 09:00:00,Alex Chin,Oleg Ignat
+2016-10-31 09:00:00,Sergey Rogozhkin,Alex Chin
+2016-11-1 09:00:00,Sumesh Dutt Sharma,Sergey Rogozhkin
+2016-11-2 09:00:00,Michal Primke,Sumesh Dutt Sharma
+2016-11-3 09:00:00,Vaishali Narkhede,Michal Primke
+2016-11-4 09:00:00,Saket Bharambe,Vaishali Narkhede
+2016-11-5 09:00:00,Brian Chamberlain,Saket Bharambe
+2016-11-6 09:00:00,Arjun Shankar,Brian Chamberlain
+2016-11-7 09:00:00,Brian Chamberlain,Arjun Shankar
+2016-11-8 09:00:00,Sergey Rogozhkin,Brian Chamberlain
+2016-11-9 09:00:00,Yogesh Kulkarni,Sergey Rogozhkin
+2016-11-10 09:00:00,Jiachuan Wang,Yogesh Kulkarni
+2016-11-11 09:00:00,Michal Primke,Jiachuan Wang
+2016-11-12 09:00:00,Vaishali Narkhede,Michal Primke
+2016-11-13 09:00:00,Pratyush Rawat,Vaishali Narkhede
+2016-11-14 09:00:00,Sumesh Dutt Sharma,Pratyush Rawat
+2016-11-15 09:00:00,Sergey Rogozhkin,Sumesh Dutt Sharma
+2016-11-16 09:00:00,Saket Bharambe,Sergey Rogozhkin
+2016-11-17 09:00:00,Vaishali Narkhede,Saket Bharambe
+2016-11-18 09:00:00,Sean Liu,James Tao
+2016-11-19 09:00:00,James Tao,Sean Liu
+2016-11-20 09:00:00,Garima Agrawal,James Tao
+2016-11-21 09:00:00,Arjun Shankar,Garima Agrawal
+2016-11-22 09:00:00,Yogesh Kulkarni,Arjun Shankar
+2016-11-23 09:00:00,James Tao,Yogesh Kulkarni
+2016-11-24 09:00:00,Vaishali Narkhede,Oleg Ignat
+2016-11-25 09:00:00,Oleg Ignat,Vaishali Narkhede
+2016-11-26 09:00:00,Vaishali Narkhede,Oleg Ignat
+2016-11-27 09:00:00,Oleg Ignat,Vaishali Narkhede
+2016-11-28 09:00:00,Alex Chin,Oleg Ignat
+2016-11-29 09:00:00,Jiachuan Wang,Alex Chin
+2016-11-30 09:00:00,Sean Liu,Jiachuan Wang
+2016-12-1 09:00:00,Oleg Ignat,Sean Liu
+2016-12-2 09:00:00,Alexey Yeltsov,Oleg Ignat
+2016-12-3 09:00:00,Sumesh Dutt Sharma,Alexey Yeltsov
+2016-12-4 09:00:00,Jared Moore,Sumesh Dutt Sharma
+2016-12-5 09:00:00,Pratyush Rawat,Jared Moore
+2016-12-6 09:00:00,Nathan Fan,Pratyush Rawat
+2016-12-7 09:00:00,Yogesh Kulkarni,Nathan Fan
+2016-12-8 09:00:00,Apurva Sahasrabudhe,Yogesh Kulkarni
+2016-12-9 09:00:00,Arjun Shankar,Apurva Sahasrabudhe
+2016-12-10 09:00:00,Frankie Tsa,Arjun Shankar
+2016-12-11 09:00:00,Sergey Rogozhkin,Frankie Tsa
+2016-12-12 09:00:00,Dinesh M Madhusoodanan,Sergey Rogozhkin
+2016-12-13 09:00:00,Sean Liu,Dinesh M Madhusoodanan
+2016-12-14 09:00:00,Garima Agrawal,Sean Liu
+2016-12-15 09:00:00,Jared Moore,Garima Agrawal
+2016-12-16 09:00:00,Apurva Sahasrabudhe,Jared Moore
+2016-12-17 09:00:00,Jiachuan Wang,Apurva Sahasrabudhe
+2016-12-18 09:00:00,Alexey Yeltsov,Jiachuan Wang
+2016-12-19 09:00:00,Alex Chin,Alexey Yeltsov
+2016-12-20 09:00:00,Sumesh Dutt Sharma,Alex Chin
+2016-12-21 09:00:00,Vaishali Narkhede,Sumesh Dutt Sharma
+2016-12-22 09:00:00,Dinesh M Madhusoodanan,Vaishali Narkhede
+2016-12-23 09:00:00,Yogesh Kulkarni,Dinesh M Madhusoodanan
+2016-12-24 09:00:00,Sean Liu,Yogesh Kulkarni
+2016-12-25 09:00:00,Pratyush Rawat,Sean Liu
+2016-12-26 09:00:00,Sergey Rogozhkin,Pratyush Rawat
+2016-12-27 09:00:00,Frankie Tsa,Sergey Rogozhkin
+2016-12-28 09:00:00,Sean Liu,Frankie Tsa
+2016-12-29 09:00:00,Sergey Rogozhkin,Sean Liu
+2016-12-30 09:00:00,Yogesh Kulkarni,Sergey Rogozhkin
+2016-12-31 09:00:00,Garima Agrawal,Yogesh Kulkarni
+2017-1-1 09:00:00,Yogesh Kulkarni,Garima Agrawal
+2017-1-2 09:00:00,Garima Agrawal,Yogesh Kulkarni
+2017-1-3 09:00:00,Alexey Yeltsov,Garima Agrawal
+2017-1-4 09:00:00,Apurva Sahasrabudhe,Alexey Yeltsov
+2017-1-5 09:00:00,Dinesh M Madhusoodanan,Apurva Sahasrabudhe
+2017-1-6 09:00:00,Sumesh Dutt Sharma,Dinesh M Madhusoodanan
+2017-1-7 09:00:00,Jared Moore,Sumesh Dutt Sharma
+2017-1-8 09:00:00,Frankie Tsa,Jared Moore
+2017-1-9 09:00:00,Sean Liu,Frankie Tsa
+2017-1-10 09:00:00,Nathan Fan,Sean Liu
+2017-1-11 09:00:00,Arjun Shankar,Nathan Fan
+2017-1-12 09:00:00,Jiachuan Wang,Arjun Shankar
+2017-1-13 09:00:00,Pratyush Rawat,Jiachuan Wang
+2017-1-14 09:00:00,Sumesh Dutt Sharma,Pratyush Rawat
+2017-1-15 09:00:00,Pratyush Rawat,Sumesh Dutt Sharma
+2017-1-16 09:00:00,Sumesh Dutt Sharma,Pratyush Rawat
+2017-1-17 09:00:00,Vaishali Narkhede,Sumesh Dutt Sharma
+2017-1-18 09:00:00,Alexey Yeltsov,Vaishali Narkhede
+2017-1-19 09:00:00,Frankie Tsa,Alexey Yeltsov
+2017-1-20 09:00:00,Yogesh Kulkarni,Frankie Tsa
+2017-1-21 09:00:00,Sean Liu,Yogesh Kulkarni
+2017-1-22 09:00:00,Jared Moore,Sean Liu
+2017-1-23 09:00:00,Sergey Rogozhkin,Jared Moore
+2017-1-24 09:00:00,Arjun Shankar,Sergey Rogozhkin
+2017-1-25 09:00:00,Garima Agrawal,Arjun Shankar
+2017-1-26 09:00:00,Oleg Ignat,Garima Agrawal
+2017-1-27 09:00:00,Apurva Sahasrabudhe,Oleg Ignat
+2017-1-28 09:00:00,Alex Chin,Apurva Sahasrabudhe
+2017-1-29 09:00:00,Dinesh M Madhusoodanan,Alex Chin
+2017-1-30 09:00:00,Alex Chin,Dinesh M Madhusoodanan
+2017-1-31 09:00:00,Sumesh Dutt Sharma,Alex Chin
+2017-2-1 09:00:00,Frankie Tsa,Sumesh Dutt Sharma
+2017-2-2 09:00:00,Alexey Yeltsov,Frankie Tsa
+2017-2-3 09:00:00,Jared Moore,Alexey Yeltsov
+2017-2-4 09:00:00,Sergey Rogozhkin,Jared Moore
+2017-2-5 09:00:00,Jiachuan Wang,Sergey Rogozhkin
+2017-2-6 09:00:00,Yogesh Kulkarni,Jiachuan Wang
+2017-2-7 09:00:00,Sumesh Dutt Sharma,Yogesh Kulkarni
+2017-2-8 09:00:00,Brian Chamberlain,Sumesh Dutt Sharma
+2017-2-9 09:00:00,Garima Agrawal,Brian Chamberlain
+2017-2-10 09:00:00,Brian Chamberlain,Garima Agrawal
+2017-2-11 09:00:00,Adam Kromm,Brian Chamberlain
+2017-2-12 09:00:00,Apurva Sahasrabudhe,Adam Kromm
+2017-2-13 09:00:00,Nathan Fan,Apurva Sahasrabudhe
+2017-2-14 09:00:00,Arjun Shankar,Nathan Fan
+2017-2-15 09:00:00,Frankie Tsa,Arjun Shankar
+2017-2-16 09:00:00,Vaishali Narkhede,Frankie Tsa
+2017-2-17 09:00:00,Sergey Rogozhkin,Vaishali Narkhede
+2017-2-18 09:00:00,Yogesh Kulkarni,Sergey Rogozhkin
+2017-2-19 09:00:00,Sergey Rogozhkin,Yogesh Kulkarni
+2017-2-20 09:00:00,Yogesh Kulkarni,Sergey Rogozhkin
+2017-2-21 09:00:00,Jared Moore,Yogesh Kulkarni
+2017-2-22 09:00:00,Jiachuan Wang,Jared Moore
+2017-2-23 09:00:00,Alex Chin,Jiachuan Wang
+2017-2-24 09:00:00,Arjun Shankar,Alex Chin
+2017-2-25 09:00:00,Alex Chin,Arjun Shankar
+2017-2-26 09:00:00,Apurva Sahasrabudhe,Alex Chin
+2017-2-27 09:00:00,Frankie Tsa,Apurva Sahasrabudhe
+2017-2-28 09:00:00,Jack Yang,Frankie Tsa
+2017-3-1 09:00:00,Jiachuan Wang,Jack Yang
+2017-3-2 09:00:00,Anvesha Sinha,Jiachuan Wang
+2017-3-3 09:00:00,Sumesh Dutt Sharma,Anvesha Sinha
+2017-3-4 09:00:00,Sean Liu,Sumesh Dutt Sharma
+2017-3-5 09:00:00,Jared Moore,Sean Liu
+2017-3-6 09:00:00,Shivam Atri,Jared Moore
+2017-3-7 09:00:00,Arjun Shankar,Shivam Atri
+2017-3-8 09:00:00,Wei Zeng,Arjun Shankar
+2017-3-9 09:00:00,Alex Chin,Wei Zeng
+2017-3-10 09:00:00,Pan Yi,Alex Chin
+2017-3-11 09:00:00,Nathan Fan,Pan Yi
+2017-3-12 09:00:00,Jiachuan Wang,Nathan Fan
+2017-3-13 09:00:00,Anurag Garg,Jiachuan Wang
+2017-3-14 09:00:00,Alexey Yeltsov,Anurag Garg
+2017-3-15 09:00:00,Misha Kolianko,Alexey Yeltsov
+2017-3-16 09:00:00,Brian Chamberlain,Misha Kolianko
+2017-3-17 09:00:00,Xiang Li,Brian Chamberlain
+2017-3-18 09:00:00,Jack Yang,Xiang Li
+2017-3-19 09:00:00,Sergey Rogozhkin,Jack Yang
+2017-3-20 09:00:00,Misha Kolianko,Sergey Rogozhkin
+2017-3-21 09:00:00,Frankie Tsa,Misha Kolianko
+2017-3-22 09:00:00,Hsi Hung Shih,Frankie Tsa
+2017-3-23 09:00:00,James Tao,Hsi Hung Shih
+2017-3-24 09:00:00,Sumesh Dutt Sharma,James Tao
+2017-3-25 09:00:00,Anvesha Sinha,Sumesh Dutt Sharma
+2017-3-26 09:00:00,Yogesh Kulkarni,Anvesha Sinha
+2017-3-27 09:00:00,Adam Kromm,Yogesh Kulkarni
+2017-3-28 09:00:00,Oleg Ignat,Adam Kromm
+2017-3-29 09:00:00,Arjun Shankar,Oleg Ignat
+2017-3-30 09:00:00,Shivam Atri,Arjun Shankar
+2017-3-31 09:00:00,Jared Moore,Shivam Atri
+2017-4-1 09:00:00,Brian Chamberlain,Jared Moore
+2017-4-2 09:00:00,Pratyush Rawat,Brian Chamberlain
+2017-4-3 09:00:00,Adam Kromm,Pratyush Rawat
+2017-4-4 09:00:00,Nathan Fan,Adam Kromm
+2017-4-5 09:00:00,Misha Kolianko,Nathan Fan
+2017-4-6 09:00:00,Garima Agrawal,Misha Kolianko
+2017-4-7 09:00:00,Jiachuan Wang,Garima Agrawal
+2017-4-8 09:00:00,Hsi Hung Shih,Jiachuan Wang
+2017-4-9 09:00:00,Pan Yi,Hsi Hung Shih
+2017-4-10 09:00:00,Xiang Li,Pan Yi
+2017-4-11 09:00:00,Vaishali Narkhede,Xiang Li
+2017-4-12 09:00:00,Frankie Tsa,Vaishali Narkhede
+2017-4-13 09:00:00,Alexey Yeltsov,Frankie Tsa
+2017-4-14 09:00:00,Nathan Fan,Alexey Yeltsov
+2017-4-15 09:00:00,Jack Yang,Nathan Fan
+2017-4-16 09:00:00,Zhiyang Song,Jack Yang
+2017-4-17 09:00:00,Dinesh M Madhusoodanan,Zhiyang Song
+2017-4-18 09:00:00,Sergey Rogozhkin,Dinesh M Madhusoodanan
+2017-4-19 09:00:00,Sumesh Dutt Sharma,Sergey Rogozhkin
+2017-4-20 09:00:00,Shivam Atri,Sumesh Dutt Sharma
+2017-4-21 09:00:00,Pratyush Rawat,Shivam Atri
+2017-4-22 09:00:00,Wei Zeng,Pratyush Rawat
+2017-4-23 09:00:00,Anvesha Sinha,Wei Zeng
+2017-4-24 09:00:00,Nathan Fan,Anvesha Sinha
+2017-4-25 09:00:00,Garima Agrawal,Nathan Fan
+2017-4-26 09:00:00,Jared Moore,Garima Agrawal
+2017-4-27 09:00:00,Anurag Garg,Jared Moore
+2017-4-28 09:00:00,Dinesh M Madhusoodanan,Anurag Garg
+2017-4-29 09:00:00,Alex Chin,Dinesh M Madhusoodanan
+2017-4-30 09:00:00,Garima Agrawal,Alex Chin
+2017-5-1 09:00:00,Oleg Ignat,Garima Agrawal
+2017-5-2 09:00:00,Vaishali Narkhede,Oleg Ignat
+2017-5-3 09:00:00,Nathan Fan,Vaishali Narkhede
+2017-5-4 09:00:00,Jack Yang,Nathan Fan
+2017-5-5 09:00:00,Xiang Li,Jack Yang
+2017-5-6 09:00:00,Misha Kolianko,Xiang Li
+2017-5-7 09:00:00,Zhiyang Song,Misha Kolianko
+2017-5-8 09:00:00,Hsi Hung Shih,Zhiyang Song
+2017-5-9 09:00:00,Sean Liu,Hsi Hung Shih
+2017-5-10 09:00:00,Pan Yi,Sean Liu
+2017-5-11 09:00:00,Jared Moore,Pan Yi
+2017-5-12 09:00:00,Sumesh Dutt Sharma,Jared Moore
+2017-5-13 09:00:00,Wei Zeng,Sumesh Dutt Sharma
+2017-5-14 09:00:00,Yogesh Kulkarni,Wei Zeng
+2017-5-15 09:00:00,Arjun Shankar,Yogesh Kulkarni
+2017-5-16 09:00:00,Anvesha Sinha,Arjun Shankar
+2017-5-17 09:00:00,Nathan Fan,Anvesha Sinha
+2017-5-18 09:00:00,Jiachuan Wang,Nathan Fan
+2017-5-19 09:00:00,Alexey Yeltsov,Jiachuan Wang
+2017-5-20 09:00:00,Oleg Ignat,Alexey Yeltsov
+2017-5-21 09:00:00,James Tao,Oleg Ignat
+2017-5-22 09:00:00,Brian Chamberlain,James Tao
+2017-5-23 09:00:00,Alex Chin,Brian Chamberlain
+2017-5-24 09:00:00,Jared Moore,Alex Chin
+2017-5-25 09:00:00,Yogesh Kulkarni,Jared Moore
+2017-5-26 09:00:00,Apurva Sahasrabudhe,Yogesh Kulkarni
+2017-5-27 09:00:00,Jack Yang,Apurva Sahasrabudhe
+2017-5-28 09:00:00,Apurva Sahasrabudhe,Jack Yang
+2017-5-29 09:00:00,Misha Kolianko,Apurva Sahasrabudhe
+2017-5-30 09:00:00,Jack Yang,Misha Kolianko
+2017-5-31 09:00:00,Adam Kromm,Jack Yang
+2017-6-1 09:00:00,Jared Moore,Adam Kromm
+2017-6-2 09:00:00,Garima Agrawal,Jared Moore
+2017-6-3 09:00:00,Anvesha Sinha,Garima Agrawal
+2017-6-4 09:00:00,Pratyush Rawat,Anvesha Sinha
+2017-6-5 09:00:00,Wei Zeng,Pratyush Rawat
+2017-6-6 09:00:00,Alexey Yeltsov,Wei Zeng
+2017-6-7 09:00:00,Jack Yang,Alexey Yeltsov
+2017-6-8 09:00:00,Jared Moore,Jack Yang
+2017-6-9 09:00:00,Apurva Sahasrabudhe,Jared Moore
+2017-6-10 09:00:00,Adam Kromm,Apurva Sahasrabudhe
+2017-6-11 09:00:00,Brian Chamberlain,Adam Kromm
+2017-6-12 09:00:00,Xiang Li,Brian Chamberlain
+2017-6-13 09:00:00,Alexey Yeltsov,Xiang Li
+2017-6-14 09:00:00,Zhiyang Song,Alexey Yeltsov
+2017-6-15 09:00:00,Jack Yang,Zhiyang Song
+2017-6-16 09:00:00,Alex Chin,Jack Yang
+2017-6-17 09:00:00,Frankie Tsa,Alex Chin
+2017-6-18 09:00:00,Wei Zeng,Frankie Tsa
+2017-6-19 09:00:00,Pratyush Rawat,Wei Zeng
+2017-6-20 09:00:00,Nathan Fan,Pratyush Rawat
+2017-6-21 09:00:00,Alexey Yeltsov,Nathan Fan
+2017-6-22 09:00:00,Garima Agrawal,Alexey Yeltsov
+2017-6-23 09:00:00,Sumesh Dutt Sharma,Garima Agrawal
+2017-6-24 09:00:00,Misha Kolianko,Sumesh Dutt Sharma
+2017-6-25 09:00:00,Apurva Sahasrabudhe,Misha Kolianko
+2017-6-26 09:00:00,Sergey Rogozhkin,Apurva Sahasrabudhe
+2017-6-27 09:00:00,James Tao,Sergey Rogozhkin
+2017-6-28 09:00:00,Jared Moore,James Tao
+2017-6-29 09:00:00,James Tao,Jared Moore
+2017-6-30 09:00:00,Alexey Yeltsov,James Tao
+2017-7-1 09:00:00,Xiang Li,Alexey Yeltsov
+2017-7-2 09:00:00,Alex Chin,Xiang Li
+2017-7-3 09:00:00,Adam Kromm,Alex Chin
+2017-7-4 09:00:00,Alex Chin,Adam Kromm
+2017-7-5 09:00:00,Jack Yang,Alex Chin
+2017-7-6 09:00:00,Anvesha Sinha,Jack Yang
+2017-7-7 09:00:00,Yogesh Kulkarni,Anvesha Sinha
+2017-7-8 09:00:00,Jiachuan Wang,Yogesh Kulkarni
+2017-7-9 09:00:00,Jared Moore,Jiachuan Wang
+2017-7-10 09:00:00,Adam Kromm,Jared Moore
+2017-7-11 09:00:00,Sergey Rogozhkin,Adam Kromm
+2017-7-12 09:00:00,Zhiyang Song,Sergey Rogozhkin
+2017-7-13 09:00:00,Sumesh Dutt Sharma,Zhiyang Song
+2017-7-14 09:00:00,Wei Zeng,Sumesh Dutt Sharma
+2017-7-15 09:00:00,Garima Agrawal,Wei Zeng
+2017-7-16 09:00:00,Jared Moore,Garima Agrawal
+2017-7-17 09:00:00,Adam Kromm,Jared Moore
+2017-7-18 09:00:00,Pan Yi,Adam Kromm
+2017-7-19 09:00:00,Alexey Yeltsov,Pan Yi
+2017-7-20 09:00:00,Xiang Li,Alexey Yeltsov
+2017-7-21 09:00:00,Sergey Rogozhkin,Xiang Li
+2017-7-22 09:00:00,Misha Kolianko,Sergey Rogozhkin
+2017-7-23 09:00:00,Nathan Fan,Misha Kolianko
+2017-7-24 09:00:00,Sumesh Dutt Sharma,Nathan Fan
+2017-7-25 09:00:00,Pratyush Rawat,Sumesh Dutt Sharma
+2017-7-26 09:00:00,Arjun Shankar,Pratyush Rawat
+2017-7-27 09:00:00,Wei Zeng,Arjun Shankar
+2017-7-28 09:00:00,Alexey Yeltsov,Wei Zeng
+2017-7-29 09:00:00,Garima Agrawal,Alexey Yeltsov
+2017-7-30 09:00:00,Sergey Rogozhkin,Garima Agrawal
+2017-7-31 09:00:00,Dinesh M Madhusoodanan,Sergey Rogozhkin
+2017-8-1 09:00:00,Alex Chin,Dinesh M Madhusoodanan
+2017-8-2 09:00:00,Anvesha Sinha,Alex Chin
+2017-8-3 09:00:00,Alex Chin,Anvesha Sinha
+2017-8-4 09:00:00,James Tao,Alex Chin
+2017-8-5 09:00:00,Pratyush Rawat,James Tao
+2017-8-6 09:00:00,James Tao,Pratyush Rawat
+2017-8-7 09:00:00,Sumesh Dutt Sharma,James Tao
+2017-8-8 09:00:00,Wei Zeng,Sumesh Dutt Sharma
+2017-8-9 09:00:00,Xiang Li,Wei Zeng
+2017-8-10 09:00:00,Jared Moore,Xiang Li
+2017-8-11 09:00:00,Zhiyang Song,Jared Moore
+2017-8-12 09:00:00,Alexey Yeltsov,Zhiyang Song
+2017-8-13 09:00:00,Misha Kolianko,Alexey Yeltsov
+2017-8-14 09:00:00,Adam Kromm,Misha Kolianko
+2017-8-15 09:00:00,Garima Agrawal,Adam Kromm
+2017-8-16 09:00:00,Shivam Atri,Garima Agrawal
+2017-8-17 09:00:00,Pratyush Rawat,Shivam Atri
+2017-8-18 09:00:00,Sumesh Dutt Sharma,Pratyush Rawat
+2017-8-19 09:00:00,Zhiyang Song,Sumesh Dutt Sharma
+2017-8-20 09:00:00,Jared Moore,Zhiyang Song
+2017-8-21 09:00:00,Adam Kromm,Jared Moore
+2017-8-22 09:00:00,Jared Moore,Adam Kromm
+2017-8-23 09:00:00,Frankie Tsa,Jared Moore
+2017-8-24 09:00:00,Pratyush Rawat,Frankie Tsa
+2017-8-25 09:00:00,Nathan Fan,Pratyush Rawat
+2017-8-26 09:00:00,Oleg Ignat,Nathan Fan
+2017-8-27 09:00:00,Zhiyang Song,Oleg Ignat
+2017-8-28 09:00:00,Yogesh Kulkarni,Zhiyang Song
+2017-8-29 09:00:00,Xiang Li,Yogesh Kulkarni
+2017-8-30 09:00:00,Sumesh Dutt Sharma,Xiang Li
